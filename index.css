@@ -1,0 +1,21 @@
+.comp{
+    background-color: rgb(171, 197, 219);
+    height:320px ;
+    width: 250px;
+    padding-top: 10px;
+    margin: 20px;
+    padding-left: 15px;
+    border:5px outset red;
+    border-radius: 5px;
+}
+h2{
+    color: red;
+}
+h3{
+    color: blue;
+}
+#main{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 350px;
+}
